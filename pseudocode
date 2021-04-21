@@ -1,6 +1,6 @@
 User loads app
 display splash screen to user while loading sign in screen
-User signs in or creates new account 
+If User signs in or creates new account 
 Store infomation from user that was given at login screen
 Splash Screen loads with move in date
 Stores move in date selected  
